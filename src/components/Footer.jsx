@@ -4,13 +4,13 @@ const Footer = () => {
       <div className="flex flex-col sm:flex-row justify-between items-center">
         <div className="mb-4 sm:mb-0">
           <p>
-            &copy; 2024 Saurabh Sambha Shiradkar{" "}
+            &copy; 2024 Saurabh Sambha Shiradkar <br />
             <span>All Rights Reserved</span>
             <br />
             Email: saurabhshiradkar@gmail.com
           </p>
         </div>
-        <div className="flex flex-wrap gap-5 sm:gap-10">
+        {/* <div className="flex flex-wrap gap-5 sm:gap-10">
           <a href="#" className="hover:underline">
             About
           </a>
@@ -23,7 +23,7 @@ const Footer = () => {
           <a href="#" className="hover:underline">
             Contact
           </a>
-        </div>
+        </div> */}
       </div>
     </footer>
   );

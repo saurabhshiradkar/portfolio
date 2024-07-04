@@ -89,7 +89,7 @@ const Header = () => {
           ))}
           <a
             href={actionButton.link}
-            className=" text-center block mx-40 mb-2 p-2 bg-orange-500 shadow-lg hover:bg-orange-400 rounded-full text-base font-semibold"
+            className=" text-center block m-20 p-3 bg-orange-500 shadow-lg hover:bg-orange-400 rounded-2xl text-base font-semibold"
           >
             {actionButton.title}
           </a>
