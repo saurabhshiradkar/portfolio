@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import bannerImage from "../assets/ProfilePic1.jpg";
-import bannerBackground from "../assets/banner_wallpaper.svg";
+import bannerBackground from "../assets/banner_wallpaper2.svg";
 import Typed from "typed.js";
 import { useEffect } from "react";
 
