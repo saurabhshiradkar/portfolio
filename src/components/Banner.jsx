@@ -43,10 +43,10 @@ const Banner = () => {
           <p className="mt-4 text-sm sm:text-base">
             With 3+ years of experience as a Java Backend Developer and
             currently working as a DevOps Engineer, I specialize in Core Java,
-            Spring Boot, SQL. I am committed to delivering high-quality
-            solutions and I am dedicated to continuous learning,
-            self-improvement, and contributing towards the growth of the
-            organization.
+            Advanced Java, JAX-RS, REST APIs, Spring Framework, and SQL. I am
+            committed to delivering high-quality solutions and dedicated to
+            continuous learning self-improvement and contribution towards the
+            organization's growth.
           </p>
 
           <div className="icons-container flex space-x-3 sm:space-x-5">
@@ -88,6 +88,14 @@ const Banner = () => {
             href="mailto:saurabhshiradkar@gmail.com"
           >
             Email: saurabhshiradkar@gmail.com
+          </a>
+          <br />
+          <a
+            className="text-sm sm:text-xl p-2 bg-orange-500 rounded-full shadow-lg mt-4 inline-block"
+            // href="https://drive.google.com/uc?export=download&id=1FgGIQJBp96A50sJNrdRwbuLDNHxxv6wB"
+            href="https://drive.google.com/uc?export=download&id=1Gl-gbJmI219Ew1D3jkyiHStEOJ6cqSms"
+          >
+            Download CV
           </a>
         </div>
       </div>

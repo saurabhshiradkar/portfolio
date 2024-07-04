@@ -12,7 +12,8 @@ const Header = () => {
 
   const [actionButton] = useState({
     title: "Download CV",
-    link: "https://drive.google.com/uc?export=download&id=1FgGIQJBp96A50sJNrdRwbuLDNHxxv6wB",
+    // link: "https://drive.google.com/uc?export=download&id=1FgGIQJBp96A50sJNrdRwbuLDNHxxv6wB",
+    link: "https://drive.google.com/uc?export=download&id=1Gl-gbJmI219Ew1D3jkyiHStEOJ6cqSms",
   });
 
   const [isMenuOpen, setIsMenuOpen] = useState(false);
