@@ -1,4 +1,4 @@
-import bannerBackground from "../assets/banner_wallpaper2.svg";
+import bannerBackground from "../assets/banner_wallpaper.svg";
 
 const Expertise = () => {
   return (
